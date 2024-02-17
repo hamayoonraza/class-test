@@ -1,0 +1,35 @@
+.navbar{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: rgb(208, 208, 18);
+    z-index: 1;
+}
+#navbarNavAltMarkup{
+    display: flex;
+    justify-content: end;
+    right: 400px;
+}
+.nav-link{
+    font-weight: bolder;
+    font-size: 20px;
+}
+img{
+    height: 100px;
+    width: 280px;
+}
+a:hover{
+    border: 1px solid black;
+    border-inline-color: black;
+    border-color: black;
+    color: white;
+}
+#carouselExample{
+    margin-top: 130px;
+    height: auto;
+    width: 100%;
+}
+.burger{
+    height: 600px;
+    width: 1672px;
+}
